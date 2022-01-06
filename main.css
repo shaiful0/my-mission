@@ -1,0 +1,131 @@
+.top-banner{
+  display: flex;
+  margin-left: 150px;
+  margin-top: 50px;
+}
+.another-color{
+  color: orangered;
+}
+.half-width{
+  width: 50%;
+}
+.half-width img{
+  width: 70%;
+  margin-top: -55px;
+  margin-left: 61px;
+}
+.border-h{
+  font-size: 50px;
+  margin-left: 10px;
+}
+.solid-border{
+  border-left: solid 5px orangered;
+}
+span{
+  color: rgb(17, 13, 233);
+}
+.Explore-button{
+  text-decoration: none;
+  padding: 10px 30px;
+  background-color: pink;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+#small-tag{
+  margin-top: 50px;
+}
+
+ #mission-in{
+  text-align: center;
+  color: rgba(236, 129, 79, 0.616);
+  font-size: 50px;
+  margin-bottom: -30px;
+  font-family: cursive;
+}
+.section-all{
+  display: flex;
+  margin: 150px;
+}
+.mission-item{
+  box-shadow: rgb(192, 199, 179) 2px 2px 2px 5px;
+  width: 50%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding: 15px;
+  border-radius: 20px;
+  border-image-slice: 1;
+}
+.shado-boxes{
+  display: flex;
+  height: 340px;
+}
+.small-image{
+   height: 100px;
+   width: 100px;
+}
+
+#image-code{
+  height: 400px;
+  width: 400px;
+}
+.half-part{
+  width: 40%;
+}
+#blod{
+  font-size:50px;
+}
+.m-button{
+  text-decoration: none;
+  padding: 10px 10px;
+  background-color: pink;
+  border-radius: 5px;
+}
+
+.last-of{
+  display: flex;
+  margin: 150px;
+ }
+ .bio-session p{
+   text-align: center;
+   font-size: 30px;
+ }
+ #bio{
+   border-bottom: 3px  solid;
+   margin-left: 550px;
+   margin-right: 450px;
+   text-align: center;
+   font-size: 50px;
+
+ }
+ .biography{
+   margin: 150px;
+  margin-right: 100px;
+ }
+ .last-last {
+  width: 50%;
+  margin-right: 149px;
+  margin-left: 77px;
+}
+.bottom-part{
+  text-align: center;
+}
+
+  #footer-section{
+    height: 150px;
+    width: 100%;
+    background-color: black;
+  }
+.footer-ses p{
+  color: aliceblue;
+}
+span{
+  color: coral;
+  font-family:Cursive;
+}
+#span-year{
+  color: blanchedalmond;
+
+}
+.paragraph-tags{
+  font-size: 30px;
+}
