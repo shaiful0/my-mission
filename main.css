@@ -18,6 +18,9 @@
   font-size: 50px;
   margin-left: 10px;
 }
+#p{
+  font-size: 28px;
+}
 .solid-border{
   border-left: solid 5px orangered;
 }
@@ -129,3 +132,4 @@ span{
 .paragraph-tags{
   font-size: 30px;
 }
+
